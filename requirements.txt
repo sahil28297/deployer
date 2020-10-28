@@ -1,0 +1,5 @@
+frappe
+PyGithub
+python-digitalocean
+paramiko
+regex
